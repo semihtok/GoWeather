@@ -1,4 +1,6 @@
 [![Go Report Card](https://goreportcard.com/badge/kubernetes/helm)](http://goreportcard.com/report/github.com/semihtok/GoWeather)
+[![Build Status](https://travis-ci.org/containous/traefik.svg?branch=master)](https://travis-ci.org/semihtok/GoWeather)
+
 # GoWeather
 Getting weather information from console with using OpenWeatherApi
 
