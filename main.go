@@ -9,7 +9,7 @@ import (
 func main() {
 
 	//Replace with your APPID
-	appID := "APPID
+	appID := "APPID"
 
 	var location string
 	fmt.Print("Location : ")
